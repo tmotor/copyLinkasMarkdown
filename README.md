@@ -1,0 +1,4 @@
+# copyLinkasMarkdown
+
+# このスクリプトについて
+WebページのタイトルとURLをMarkdownフォーマットでクリップボードにコピーするBookmarklet
